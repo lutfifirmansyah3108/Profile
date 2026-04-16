@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[!KFUPM Image](/images/DSC_6686.JPG){: .align-center width="900px"}
+[!KFUPM Image](/images/DSC_6686.JPG)
 
 👨 I'm a postdoctoral fellow in the Saudi's top University.
 
