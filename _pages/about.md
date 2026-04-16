@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-/images/DSC_6686.JPG
+(/images/DSC_6686.JPG){: .align-center width="900pc"}
 
 👨 I'm a postdoctoral fellow in the Saudi's top University.
 
